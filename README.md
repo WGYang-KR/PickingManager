@@ -8,3 +8,6 @@
 
 # 총괄피킹(냉동,냉장 식품들만 모아서 보여줌)
 ![127 0 0 1_8000_admin_delivery_invoice_total_picking_m php(iPhone 6_7_8)](https://user-images.githubusercontent.com/72122503/142521393-4d3af426-c77d-47bf-9e95-dc780a109b92.png)
+
+# DB 로그
+![image](https://user-images.githubusercontent.com/72122503/146717724-8b16bf00-360f-4981-a09b-93947944a9cd.png)
